@@ -1,0 +1,16 @@
+canvas {
+    border: 10px outset rgb(238, 255, 0);
+    border-radius: 20px;
+    margin-top: 110px;
+    box-shadow: 5px 5px 18px rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+
+.holding_status_div {
+    background:rgb(238, 255, 0);
+    width: 50%;
+    height: 55px;
+    font-size: 17px;
+    border-radius: 20px;
+    color:rgb(0, 0, 0);
+}

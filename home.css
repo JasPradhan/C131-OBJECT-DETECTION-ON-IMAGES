@@ -1,0 +1,59 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 20px;
+    font-family: 'Luckiest Guy', cursive;
+    color: rgba(0, 0, 0);
+    height: 75px;
+    padding: 20px;
+}
+
+body {
+    background-size: cover;
+    background: url("Bacg.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+
+.copyright_footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: rgb(34, 67, 255);
+    text-align: center;
+    line-height: 3;
+    margin-top:10px;
+}
+
+a {
+    color: rgb(21, 255, 0);
+}
+
+.a_tag {
+    padding: 10px;
+    background-color: rgb(58, 58, 58);
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 55px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.a_tag_home {
+    padding: 20px;
+    background-color: rgb(58, 58, 58);
+    width: 50%;
+    height: 55px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#home_icon {
+    height: 45px;
+    width: 45px;
+}
